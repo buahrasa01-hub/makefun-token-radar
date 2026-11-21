@@ -1,5 +1,11 @@
 # Token Radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/buahrasa01-hub/makefun-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/buahrasa01-hub/makefun-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+Built for the [make.fun "Build the best token launch radar" bounty](https://make.fun/bounty/token-radar-01) ($1,325 in USDC).
+
 A token-launch radar for the **make.fun `token-radar-01`** bounty. It reads one frozen DefiLlama
 snapshot of the protocol universe, finds every protocol whose record carries no token and that stands
 on its own, ranks them by an **implied value** derived from the snapshot alone, and shows a reader how
